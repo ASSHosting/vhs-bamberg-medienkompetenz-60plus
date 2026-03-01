@@ -1,6 +1,6 @@
 # Modul 1 - Praesentation
 ## Ankommen in der digitalen Welt - Mein Geraet und ich
-*Version 2.0 - 01.03.2026 | Hinweis: ~45% Wiederkehrer, ~55% Neulinge*
+*Version 2.1 - 05.03.2026 | Hinweis: ~45% Wiederkehrer, ~55% Neulinge*
 
 ---
 
@@ -43,7 +43,6 @@ Dozent: Arno Schimmelpfennig
 ---
 
 ### Folie 5: SCQA - Bewusste Inkompetenz erzeugen
-
 **Situation:** Sie haben ein Smartphone. Es kann telefonieren und Fotos machen.
 
 **Complication:** Aber was ist mit Arzttermine buchen, Zugtickets kaufen, mit den Enkeln videotelefonieren, Bankgeschaefte erledigen? Und wenn etwas nicht klappt - wen fragen Sie dann?
@@ -67,9 +66,8 @@ Dozent: Arno Schimmelpfennig
 ---
 
 ### Folie 7: Grundbegriffe (Schritt fuer Schritt - nie hetzen!)
-
 | Begriff | Was ist das? | Wo finde ich es? |
-|---------|-------------|-----------------|
+|---------|-------------|----------------|
 | **App** | Ein Programm auf Ihrem Smartphone | Auf dem Homescreen oder im App Store |
 | **WLAN** | Drahtloses Internet zu Hause | Einstellungen -> WLAN |
 | **Touchscreen** | Der Bildschirm reagiert auf Beruehrung | Tippen = Klicken, Wischen = Blaettern |
@@ -82,7 +80,6 @@ Dozent: Arno Schimmelpfennig
 
 ### Folie 8: Basis-Modus Uebung (alle machen mit)
 **Schritt fuer Schritt - wir machen das GEMEINSAM:**
-
 1. Heimbildschirm anschauen - Was sehen Sie?
 2. Einstellungen finden (Zahnrad-Symbol)
 3. App Store / Play Store oeffnen
@@ -94,36 +91,64 @@ Dozent: Arno Schimmelpfennig
 
 ---
 
-### Folie 9: Challenge-Modus (fuer Wiederkehrer)
-*Waehrend die Neulinge Folie 8 ueben:*
+### Folie 9: Google KI - Ihr persoenlicher Assistent (KEIN Konto noetig!)
+> **"Was, wenn Sie jede Frage stellen koennten - ohne jemanden zu belaestigen?"**
 
-**Aufgabe 1:** Oeffnen Sie google.com auf Ihrem Geraet
-**Aufgabe 2:** Geben Sie folgende Frage ein: "Wie aendere ich die Schriftgroesse auf meinem Smartphone?"
-**Aufgabe 3:** Bewerten Sie die Antwort - war sie hilfreich? Was haetten Sie anders formuliert?
+**Das Problem, das wir alle kennen:**
+*"Ich will meinen Enkeln und Kindern nicht staendig auf die Nerven gehen, wenn ich eine Frage habe."*
 
-*Hinweis: Das ist Google KI - wir werden das in Modul 4 vertiefen. Heute nur ein erster Blick.*
+**Die Loesung: Google KI (Gemini)**
+- Kein Konto, kein Passwort, keine Anmeldung noetig
+- Einfach google.com oeffnen - die KI ist direkt da
+- Stellen Sie jede Frage - so wie Sie wuerden mit einem geduldigen Freund sprechen
+- Die KI antwortet sofort, erklaert gerne nochmal, wird nie ungeduldig
+
+**Beispiele fuer Fragen, die Sie JETZT stellen koennten:**
+- "Wie mache ich die Schrift auf meinem Handy groesser?"
+- "Was bedeutet WLAN und wie verbinde ich mich?"
+- "Wie losche ich eine App, die ich nicht mehr brauche?"
+
+*Dozenten-Hinweis: Jetzt live zeigen! Browser oeffnen, google.com aufrufen, eine echte Teilnehmerfrage eingeben. Reaktionen beobachten - das ist oft ein "Aha-Moment".*
 
 ---
 
-### Folie 10: Ihr Alltag wird digital - Finden Sie IHREN Anwendungsfall
+### Folie 10: Google KI live ausprobieren - Alle machen mit!
+**Schritt fuer Schritt:**
+1. Browser oeffnen (das blaue "e", der Kreis oder der Fuchs)
+2. google.com eintippen
+3. Im Suchfeld Ihre Frage eintippen - in normalen Worten!
+4. Antwort lesen - bei Unklarheit: nochmal fragen!
 
+**Basis-Aufgabe:** Tippen Sie ein: *"Wie mache ich meinen Bildschirm heller?"*
+
+**Challenge-Modus (Wiederkehrer):**
+- Aufgabe 1: Stellen Sie der Google KI eine EIGENE Frage
+- Aufgabe 2: Bewerten Sie die Antwort - war sie verstaendlich?
+- Aufgabe 3: Formulieren Sie die Frage anders und vergleichen Sie die Antworten
+
+*Dozenten-Hinweis: Das ist Google KI - wir werden das in Modul 4 vertiefen. Heute nur ein erster Blick - aber ein sehr wichtiger!*
+
+---
+
+### Folie 11: Ihr Alltag wird digital - Finden Sie IHREN Anwendungsfall
 **Uebung: Bitte vervollstaendigen Sie:**
-> "Im Alltag nervt mich ___________, das koennte ich digital loesen mit ___________."
+> "Im Alltag nervt mich __________, das koennte ich digital loesen mit __________."
 
 **Beispiele:**
 | Alltagsproblem | Digitale Loesung |
-|----------------|-----------------|
+|----------------|----------------|
 | Arzt hat keine Termine frei | Online-Terminbuchung (Doctolib) |
 | Busfahrplan unklar | VGN App mit Echtzeit |
 | Enkel wohnen weit weg | Videoanruf (WhatsApp/FaceTime) |
 | Zeitung wird teurer | Nachrichtenportal / Mediathek |
-| Frage an niemanden richten wollen | Google KI (kein Konto noetig!) |
+| Frage, ohne jemanden zu stören | Google KI (kein Konto noetig!) |
+| Rezept vergessen | Google KI fragen: "Wie macht man Apfelkuchen?" |
 
 *Dozenten-Hinweis: TN-Antworten an Tafel sammeln. Diese Liste wird in Modul 6 wieder aufgegriffen!*
 
 ---
 
-### Folie 11: Die 3 Goldenen Regeln (werden in JEDEM Modul wiederholt)
+### Folie 12: Die 3 Goldenen Regeln (werden in JEDEM Modul wiederholt)
 1. **Passwoerter:** Lang ist besser als kompliziert. Nie dasselbe zweimal.
 2. **Links:** Nicht klicken, wenn unerwartet. Im Zweifel: direkt zur Website.
 3. **Anrufe:** Bank und Polizei fragen NIE nach Passwort oder Geld am Telefon.
@@ -132,7 +157,7 @@ Dozent: Arno Schimmelpfennig
 
 ---
 
-### Folie 12: Unsere WhatsApp-Kursgruppe
+### Folie 13: Unsere WhatsApp-Kursgruppe
 **Warum eine Kursgruppe?**
 - Sie koennen zwischen den Modulen Fragen stellen - ohne Enkel oder Kinder zu belaestigen!
 - Wir helfen uns gegenseitig
@@ -148,17 +173,17 @@ Dozent: Arno Schimmelpfennig
 
 ---
 
-### Folie 13: Mein Commitment
-> **"Diese Woche probiere ich _______________ auf meinem Geraet aus."**
+### Folie 14: Mein Commitment
+> **"Diese Woche probiere ich ______________ auf meinem Geraet aus."**
 > (Zeitpunkt: _________ Uhr, max. 10 Minuten)
 
-*Tipp: Klein anfangen! "Ich schaue jeden Tag einmal auf mein Wetter-App" ist ein perfektes Ziel.*
+*Tipp: Klein anfangen! "Ich stelle jeden Tag eine Frage an Google KI" oder "Ich schaue jeden Tag einmal auf mein Wetter-App" sind perfekte Ziele.*
 
 ---
 
-### Folie 14: Gratitude-Runde (Ritual - wird in jedem Modul wiederholt)
+### Folie 15: Gratitude-Runde (Ritual - wird in jedem Modul wiederholt)
 **Abschluss-Ritual:**
-> "Eine Sache, die ich heute gelernt habe und wofuer ich dankbar bin: ____________"
+> "Eine Sache, die ich heute gelernt habe und wofuer ich dankbar bin: __________"
 
 *Reihum, jeder TN sagt einen Satz. Dozent beginnt als Vorbild.*
 
@@ -166,7 +191,7 @@ Dozent: Arno Schimmelpfennig
 
 ---
 
-### Folie 15: Naechste Woche
+### Folie 16: Naechste Woche
 **Modul 2: Sicher unterwegs - Passwoerter, Einstellungen, Datenschutz**
 
 Bringen Sie bitte mit:
